@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Tan Hong Zhi</string>
+    <string name="porfile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Education:\n
+        \n\tSJKC Hua Shia, Bagan Datoh\n
+        \n\tSMK Seri Muara, Bagan Datoh\n
+        \n\tTAR UC, Kuala Lumpur
+        \n
+        \n
+        \n\n\n\n\n\n\n\n\n\n
+
+    </string>
+</resources>
